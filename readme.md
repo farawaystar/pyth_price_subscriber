@@ -10,6 +10,7 @@ App: https://realtime-price-tracker.vercel.app/
 To run the .js version do npm install and run:
 
 ```bash
+node install ws
 node price_subscriber.js
 ```
 
